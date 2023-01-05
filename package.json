@@ -9,11 +9,11 @@
   ],
   "homepage": "https://strapi.io",
   "bugs": {
-    "url": "https://github.com/strapi/strapi/issues"
+    "url": "https://github.com/CodeBlocksCreative/strapi-provider-email-mailersend/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/strapi/strapi.git"
+    "url": "git://github.com/CodeBlocksCreative/strapi-provider-email-mailersend.git"
   },
   "license": "SEE LICENSE IN LICENSE",
   "author": {
